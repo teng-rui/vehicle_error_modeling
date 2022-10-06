@@ -1,0 +1,20 @@
+A. system_data_pre-process.py 
+1. pick up necessary signals from original data frame.
+2. drop unreasonable data at the begininig and end.
+3. label motionless timestamps
+4. noise reduction
+5. split data at motionless points
+6. save data.
+
+B. simulation
+
+C. data_split
+
+D. point_prediction_model
+uncertinty_aware_model
+
+E. uncertainty_model_retain_eavluation
+point_model_retain_eavluation4
+results: performance models
+
+F. notebook: evaluation
